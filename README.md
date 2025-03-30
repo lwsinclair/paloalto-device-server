@@ -1,4 +1,6 @@
 # Palo Alto Device Server
+[![smithery badge](https://smithery.ai/badge/@DynamicEndpoints/paloalto-device-server)](https://smithery.ai/server/@DynamicEndpoints/paloalto-device-server)
+
 
 A Model Context Protocol (MCP) server for managing Palo Alto firewalls through their REST API. This server provides tools for system information retrieval, firewall upgrades, content updates, and certificate management.
 
@@ -20,6 +22,15 @@ A Model Context Protocol (MCP) server for managing Palo Alto firewalls through t
 
 ## Installation
 
+### Installing via Smithery
+
+To install Palo Alto Device Server for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@DynamicEndpoints/paloalto-device-server):
+
+```bash
+npx -y @smithery/cli install @DynamicEndpoints/paloalto-device-server --client claude
+```
+
+### Manual Installation
 ```bash
 npm install
 ```
