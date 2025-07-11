@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/dynamicendpoints-paloalto-device-server-badge.png)](https://mseep.ai/app/dynamicendpoints-paloalto-device-server)
+
 # Palo Alto Device Server
 [![smithery badge](https://smithery.ai/badge/@DynamicEndpoints/paloalto-device-server)](https://smithery.ai/server/@DynamicEndpoints/paloalto-device-server)
 
